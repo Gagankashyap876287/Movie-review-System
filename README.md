@@ -12,6 +12,6 @@ Also you can write reviews on films which will get stored in database.
 where reviews will get stored in database.
 
 
-Here in this project i have used react as front-end and spring boot as back-end with mongodb database.
+Here in this project I have used react as front-end and spring boot as back-end with mongodb database.
 
 
